@@ -1,1 +1,3 @@
-console.log('🐀');
+import { main } from './main/';
+
+main();
